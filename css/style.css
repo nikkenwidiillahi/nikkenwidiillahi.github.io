@@ -501,8 +501,8 @@ body {
   padding: 1rem 3rem;
   font-size: 1.4rem;
   font-weight: 500;
-  color: #000;
-  background-color: var(--primary);
+  color: #fff;
+  background-color: #be1b17;
   cursor: pointer;
 }
 
